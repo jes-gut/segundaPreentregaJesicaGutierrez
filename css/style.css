@@ -1,0 +1,13 @@
+body {background-image: url(../imagenes/FB_IMG_1681855998401.jpg);
+    background-position: center;
+    background-size:cover ;
+    background-repeat: no-repeat;
+    
+}
+header {background-color: gray;}
+ 
+@media (min-width:768px) {
+    body header { 
+        height: 400px;
+    }
+}

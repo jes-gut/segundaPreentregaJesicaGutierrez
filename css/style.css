@@ -9,3 +9,11 @@ header {background-image: url(../imagenes/FB_IMG_1681856093419.jpg);
             height: 400px;
         }
     }
+footer{background-color: black;
+    padding: 20px;
+    text-align: center;
+}
+.footer_icons {
+    display: block;
+    margin: 20px;
+}

@@ -1,4 +1,8 @@
 
+* {
+    margin: 0 ; 
+    padding: 0
+}
 header {background-image: url(../imagenes/descarga.jpg);
     background-position: center;
     background-size:cover ;
@@ -27,4 +31,12 @@ footer{background-color: black;
 }
 .card-title {text-align: center;
 
+}
+h1 {
+    text-align: center;
+}
+
+p {
+    color: gray;
+    
 }
